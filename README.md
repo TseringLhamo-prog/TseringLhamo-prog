@@ -42,6 +42,7 @@ I am a **Software Developer focused on Java and Spring Boot backend development*
 Outside of tech, I enjoy hiking, biking and cooking. 
 
 📫 Reach out to me at: **tsering.lhamo.work@gmail.com**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tsering%20Lhamo-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsering-l-b05b48194)
 
 ---
